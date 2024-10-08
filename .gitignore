@@ -1,0 +1,5 @@
+# Dependencias do Node
+node_modules/
+
+# Sistema de arquivos
+.DS_Store
